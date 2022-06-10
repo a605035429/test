@@ -1,4 +1,4 @@
 flask
 pytest
 requests
-pytest Flask-Testing
+Flask-Testing
